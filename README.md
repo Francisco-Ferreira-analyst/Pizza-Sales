@@ -21,15 +21,15 @@ The dashboard is designed to help answer:
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI** for dashboard design and visualization  
-- **Excel** for data preparation and cleaning  
+- **SQL** for querying and aggregating raw sales data    
+- **Excel** for data preparation, cleaning and dashboard visualization
 - **DAX** for custom calculations  
 
 ---
 
 ## 📁 Files & Access
 
-Due to file size limitations on GitHub, the full dataset and Power BI dashboard file are available via external download.
+Some files are included directly in this repository (such as SQL scripts and documentation). However, due to GitHub's file size limitations, larger assets are available via external download.
 
 ---
 
